@@ -1,0 +1,50 @@
+.header{
+    width: 100%;
+    font-size: 20px;
+    box-shadow: 5px 5px 10px grey;
+border-radius: 20px;
+margin-top: 0px;
+}
+.header_div{
+    background-color: white;
+    border-radius: 20px;
+    color: black;
+  text-align: center;
+  float: none;
+}
+.btn-info{
+    background-color: grey;
+}
+.btn-info:hover{
+    background-color: grey;
+}
+.btn-warning:hover{
+    background-color: rgb(248, 3, 105);
+}
+.btn-warning{
+margin-bottom: 5px;
+font-size: 15px;
+background-color: rgb(248, 3, 105);
+}
+
+.copy_right_footer{
+    position: relative;
+    color: white;
+    bottom: 0;
+   background-color: grey;
+   width: 100%;
+   line-height: 3;
+
+   
+
+}
+ canvas{
+     position: fixed;
+     border: white;
+     border-style: solid;
+     border-width: 5px;
+     border-radius: 20px;
+box-shadow: 5px 5px 5px grey;
+margin-top: 50px;
+ }
+ 
